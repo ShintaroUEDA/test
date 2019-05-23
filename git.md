@@ -36,6 +36,6 @@
 ### リモートリポジトリの確認 ###
 ```
     git remote -v
-        origin  https://github.com/uedshin/knowledge.git (fetch)
-        origin  https://github.com/uedshin/knowledge.git (push)
+    origin  https://github.com/uedshin/knowledge.git (fetch)
+    origin  https://github.com/uedshin/knowledge.git (push)
 ```
