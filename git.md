@@ -4,7 +4,7 @@
 ### GitHubでリポジトリを作成する ###
 - RepositoryでCreate New Repositoryする。
 
-## ローカルリポジトリ (Windows)##
+## ローカルリポジトリ (Windows) ##
 - ### ローカルリポジトリからプッシュ ###
 1. リポジトリのフォルダを作成
 2. Gitリポジトリとして初期化　　
