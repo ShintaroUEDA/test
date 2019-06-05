@@ -1,4 +1,4 @@
-### Linux Command ###  
+# Linux Command #  
 ## zip ##  
-# xz file #  
+### xz file ###  
 tar -Jcvf ***file_name***.tar.xz ***file_name***  
