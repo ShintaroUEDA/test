@@ -22,11 +22,12 @@ tar -**j**cvf *xxxx.tar.gz* *directory*
 tar -**j**xvf *xxxx.tar.gz*
 
 ### other option ###
---c   create  
---v   verbose  
---f   filename  
---x  
---z  
---j  
---J  
-
+| option | meaning |
+----|---- 
+| c | create |
+| v | verbose |
+| f | filename |
+| x | extract(decomppress) |
+| z | gz |
+| j | bz |
+| J | xz |
