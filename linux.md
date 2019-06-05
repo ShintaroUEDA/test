@@ -21,5 +21,12 @@ tar -**j**cvf *xxxx.tar.gz* *directory*
 - decompress  
 tar -**j**xvf *xxxx.tar.gz*
 
-- 
+### other option ###
+--c  
+--v  
+--f  
+--x  
+--z  
+--j  
+--J  
 
