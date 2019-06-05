@@ -21,7 +21,7 @@ tar -**j**cvf *xxxx.tar.gz* *directory*
 - decompress  
 tar -**j**xvf *xxxx.tar.gz*
 
-### other option ###
+### option reference ###
 | option | meaning |
 ----|---- 
 | c | create |
