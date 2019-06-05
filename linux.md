@@ -22,8 +22,8 @@ tar -**j**cvf *xxxx.tar.gz* *directory*
 tar -**j**xvf *xxxx.tar.gz*
 
 ### other option ###
---c  
---v  
+--c  create
+--v  verbose
 --f  
 --x  
 --z  
