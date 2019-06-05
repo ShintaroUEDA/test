@@ -1,5 +1,5 @@
 # Linux Command #  
-## zip ##  
+## compress and decompress ##  
 ### compress xz file ###  
 tar -Jcvf ***file_name***.tar.xz ***file_name***  
 - exclude file or directory  
