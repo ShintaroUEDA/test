@@ -40,7 +40,7 @@
 | 外部環境 | O(opportunities):機会 | T(threats):脅威 |  
 
 
-| 好影響 | 好影響 | 悪影響 |
+|      | 好影響 | 悪影響 |
 ----|----|---- 
 | 内部環境 | S(strength):強み | W(weaknesses):弱み |
 | 外部環境 | O(opportunities):機会 | T(threats):脅威 |
