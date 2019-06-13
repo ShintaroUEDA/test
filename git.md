@@ -13,7 +13,7 @@
 ```
 3. ファイルをローカルリポジトリに追加
 ```
-    git add **filename**
+    git add filename
 ```
 4. インデックスに追加されたファイルをコミット    
 ```
@@ -26,8 +26,8 @@
 ```
 6. リモートリポジトリの情報を追加
 ```
-    git remote add origin **url**
-    *url...ex)**https://github.com/repositoryname.git**
+    git remote add origin url
+    url...ex) https://github.com/repositoryname.git
 ```
 7. リモートリポジトリに反映
 ```
