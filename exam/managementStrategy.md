@@ -49,6 +49,12 @@
 | フォロワ | O(opportunities):機会 | T(threats):脅威 |
 | ニッチャ | O(opportunities):機会 | T(threats):脅威 |
 
+|   |   |
+|:--|:--|
+| リーダー | 業界において最大のシェアを確立している企業。 |
+| チャレンジャ | 業界２位、３位の企業。上位企業の市場シェア |
+| フォロワ | O(opportunities):機会 | T(threats):脅威 |
+| ニッチャ | O(opportunities):機会 | T(threats):脅威 |
 
 <table align="center">
     <tr>
