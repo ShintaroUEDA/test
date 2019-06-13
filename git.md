@@ -11,15 +11,16 @@
 
         git init
 
-3. ファイルをローカルリポジトリに追加
+3. ファイルをインデックスに追加
 
     `git add` &nbsp; *filename*
 
 4. インデックスに追加されたファイルをコミット    
-```
+`
     git commit -m "add new file"
-    *-m ...message
-```
+`
+    &nbsp;&nbsp;*-m ...message
+
 5. 確認
 ```
     git status
