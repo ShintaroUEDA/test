@@ -10,7 +10,9 @@
 2. Gitリポジトリとして初期化　　
 ```
     git init
-```
+```    
+        git init
+
 3. ファイルをローカルリポジトリに追加
 ```
     git add filename
