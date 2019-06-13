@@ -63,4 +63,12 @@
         <td align="left">チャレンジャ</td>
         <td align="left">業界２位、３位の企業。上位企業の市場シェアを奪うことを目標に、製品、サービス、販売促進、流通チャネルなどのあらゆる面での差別化戦略をとる</td>
     </tr>
+    <tr>
+        <td align="left">フォロワ</td>
+        <td align="left"></td>
+    </tr>
+    <tr>
+        <td align="left">ニッチャ</td>
+        <td align="left"></td>
+    </tr>
 </table>
