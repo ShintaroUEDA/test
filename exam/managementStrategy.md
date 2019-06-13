@@ -56,7 +56,7 @@
 
 <table align="center">
     <tr>
-        <td align="left" width="10%">リーダー</td>
+        <td align="left" width="13%">リーダー</td>
         <td align="left">業界において最大のシェアを確立している企業。利潤、名声の維持・向上と最適市場シェアの確保を目標とし、市場内のすべての顧客をターゲットとした全方位戦略をとる</td>
     </tr>
     <tr>
