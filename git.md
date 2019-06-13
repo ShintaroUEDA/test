@@ -8,15 +8,13 @@
 - ### ローカルリポジトリからプッシュ ###
 1. リポジトリのフォルダを作成
 2. Gitリポジトリとして初期化　　
-```
-    git init
-```    
+
         git init
 
 3. ファイルをローカルリポジトリに追加
-```
-    git add filename
-```
+
+    `git add` &nbsp; *filename*
+
 4. インデックスに追加されたファイルをコミット    
 ```
     git commit -m "add new file"
