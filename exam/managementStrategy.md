@@ -56,11 +56,11 @@
 
 <table align="center">
     <tr>
-        <td align="left" width="150">リーダー</td>
+        <td align="left" width="10%">リーダー</td>
         <td align="left">業界において最大のシェアを確立している企業。利潤、名声の維持・向上と最適市場シェアの確保を目標とし、市場内のすべての顧客をターゲットとした全方位戦略をとる</td>
     </tr>
     <tr>
-        <td align="left" width="150">チャレンジャ</td>
+        <td align="left">チャレンジャ</td>
         <td align="left">業界２位、３位の企業。上位企業の市場シェアを奪うことを目標に、製品、サービス、販売促進、流通チャネルなどのあらゆる面での差別化戦略をとる</td>
     </tr>
 </table>
