@@ -53,10 +53,10 @@
     </tr>
     <tr>
         <td align="left">フォロワ</td>
-        <td align="left"></td>
+        <td align="left">チャレンジャと比較して、経営資源の質、量ともに乏しい企業。目標とする企業の戦略を観察し、迅速に模倣することで製品開発や広告のコストを制御し、市場での存続を図る（<font color="red"><strong>模倣戦略</strong></font>）</td>
     </tr>
     <tr>
         <td align="left">ニッチャ</td>
-        <td align="left"></td>
+        <td align="left">企業規模は小さいながらも、ニッチ（隙間）市場を対象に専門化している企業。大手企業（他社）が参入しにくい専門特化した市場に、限られた経営資源を集中させる（<font color="red"><strong>集中戦略</strong></font>）</td>
     </tr>
 </table>
