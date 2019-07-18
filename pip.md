@@ -31,7 +31,10 @@ pip list --outdated
 
 ### インストール済みのパッケージのうち、最新でないものをアップデートする
 ```
+//こちらは動かないという報告が
 pip list --outdated | awk 'NR>2 {print $1}' | xargs pip install -U
+//こちらの方が上手くいくらしい
+pip list --outdated --format=legacy | awk '{print $1}' | xargs pip install -U pip
 ```
 
 ### インストール済みのパッケージを全て削除する
